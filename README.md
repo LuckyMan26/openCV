@@ -12,14 +12,14 @@ Output:
 
 Input:
 
-![test2](https://user-images.githubusercontent.com/90770582/205287071-6666405f-446f-4d48-b092-df3505896235.jpg)
+![test3](https://user-images.githubusercontent.com/90770582/205287309-be886599-0701-4bdf-a381-4598e8426fa3.jpg)
 
 Output:
 
 ![photo_2022-12-02_13-49-43](https://user-images.githubusercontent.com/90770582/205286520-c1d02279-61cb-4aa1-903a-1ad21489c593.jpg)
 
 Input:
-![test3](https://user-images.githubusercontent.com/90770582/205287309-be886599-0701-4bdf-a381-4598e8426fa3.jpg)
+![test2](https://user-images.githubusercontent.com/90770582/205287415-f1294a12-ebc9-4250-92ef-805165de213f.jpg)
 
 Output:
 
