@@ -19,6 +19,7 @@ Output:
 ![photo_2022-12-02_13-49-43](https://user-images.githubusercontent.com/90770582/205286520-c1d02279-61cb-4aa1-903a-1ad21489c593.jpg)
 
 Input:
+
 ![test2](https://user-images.githubusercontent.com/90770582/205287415-f1294a12-ebc9-4250-92ef-805165de213f.jpg)
 
 Output:
